@@ -17,6 +17,19 @@ Aqui você encontrará desde conceitos básicos até práticas mais avançadas, 
 
 ---
 
+- [01 – Fundamentos da Qualidade](./01-fundamentos-da-qualidade)
+- [02 – QA no Ciclo de Desenvolvimento](./02-qa-no-ciclo-de-desenvolvimento)
+- [03 – Design de Testes](./03-design-de-testes)
+- [04 – Técnicas de Teste](./04-tecnicas-de-teste)
+- [05 – Modelo de Qualidade ISO 25010](./05-modelo-qualidade-iso-25010)
+- [06 – Arquitetura](./06-arquitetura)
+- [07 – Riscos](./07-riscos)
+- [08 – Revisão e Feedback](./08-revisao-e-feedback)
+- [09 – Cobertura de Testes](./09-cobertura-de-testes)
+- [10 – Automação de Testes](./10-automacao-de-testes)
+
+---
+
 ## 🧩 Conteúdo do Repositório
 
 ### 1️⃣ Fundamentos da Qualidade de Software
